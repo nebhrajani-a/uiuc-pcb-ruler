@@ -11,9 +11,9 @@
   | PCB Color           | Black               |
   | Silkscreen          | White               |
   | Surface Finish      | ENIG                |
-  | Remove Order Number | ?                   |
+  | Remove Order Number | JLCJLCJLCJLC        |
 
-* Silkscreen Graphics
+* Graphics
 
 ** Front
   - [X] Resistor color codes table
@@ -21,19 +21,16 @@
   - [X] Wire gauges table (make it centered, with the largest at the ruler edge so that it can be used as a hanging hole)
   - [X] Formulae
   - [X] Constants
-  - [ ] E12 Preferred Number (?)
+  - [X] E12 Preferred Number (?)
   - [X] Ruler actual
     - [X] Metric
     - [X] Imperial
-  - [ ] Font sizes (?)
   - [X] Basic circuit diagrams
 
 ** Back
   - [X] Backside of gauges
-  - [ ] Traces table (mil, Amps)
-  - [ ] QR code (UIUC or nebhrajani? or rickroll?)
-  - [ ] Nebhrajani A.V.
-  - [ ] Date
-  - [ ] Version (v1)
-
-* Components to Pad
+  - [X] Traces table (mil, Amps)
+  - [X] QR code (UIUC or nebhrajani? or rickroll?)
+  - [X] Nebhrajani A.V.
+  - [X] Date
+  - [X] Version (v1)
