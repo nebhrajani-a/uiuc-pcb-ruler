@@ -1,0 +1,11 @@
+* UIUC PCB Ruler
+[[./uiuc_pcb_ruler.jpg]]
+This is a multi-function ruler that has tools for wire gauge
+measurement and component footprint estimation, trace width
+estimation, a protractor, tables for resistance values, preferred
+numbers, and conversions, various formulae/constants/circuit diagrams
+on the silkscreen, and of course gold-finger millimeter/centimeter,
+inch, and metric inch rulers. It's built using a PCB manufactured
+with a black solder mask and white silkscreen. The contacts are gold,
+manufactured using an ENIG (electroless nickel immersion gold)
+process.
