@@ -4,5 +4,5 @@ This is a multi-function ruler that has tools for wire gauge
 measurement and component footprint estimation, trace width
 estimation, a protractor, tables for resistance values, preferred
 numbers, and conversions, various formulae/constants/circuit diagrams
-on the silkscreen, and of course gold-finger millimeter/centimeter,
+on the silkscreen, and gold-finger millimeter/centimeter,
 inch, and metric inch rulers. 
